@@ -1,1 +1,1 @@
-Tool to scrape rotten tomatoes data
+Tool to scrape rotten tomatoes data us Scrapy
